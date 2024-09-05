@@ -42,6 +42,7 @@ public class Gestor {
 
     private static ArrayList<Tarea> listaTareas = new ArrayList<>();
 
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcion;
