@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1869c0d-a26b-4572-9692-100b004f99a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Framework 1 ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ciudades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegistrarEstudiantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SopaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turnos.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ld4plnjLqv5ed7zPo5tnm95oZh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ciudades.executor": "Run",
+    "Application.Notas.executor": "Run",
+    "Application.RegistrarEstudiantes.executor": "Run",
+    "Application.RegistroEstudiantes.executor": "Run",
+    "Application.SopaNumeros.executor": "Run",
+    "Application.Turnos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Gestor">
+    <configuration name="Gestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gestor" />
+      <module name="JAVA FRAMEWORK 1 ARRAYLIST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrarEstudiantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegistrarEstudiantes" />
+      <module name="JAVA FRAMEWORK 1 ARRAYLIST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistroEstudiantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegistroEstudiantes" />
+      <module name="JAVA FRAMEWORK 1 ARRAYLIST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SopaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SopaNumeros" />
+      <module name="JAVA FRAMEWORK 1 ARRAYLIST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Turnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Turnos" />
+      <module name="JAVA FRAMEWORK 1 ARRAYLIST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gestor" />
+        <item itemvalue="Application.RegistrarEstudiantes" />
+        <item itemvalue="Application.RegistroEstudiantes" />
+        <item itemvalue="Application.Turnos" />
+        <item itemvalue="Application.SopaNumeros" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1869c0d-a26b-4572-9692-100b004f99a9" name="Changes" comment="" />
+      <created>1725496804684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725496804684</updated>
+    </task>
+    <servers />
+  </component>
+</project>
